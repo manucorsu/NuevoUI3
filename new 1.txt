@@ -1,0 +1,6 @@
+TEMA DE HOY, 27 de mayo:
+	"Creación de un repositorio de nuestro propio proyecto."
+	PEQUEÑO EAC:
+		- Jero va a hacer una UI rápidamente
+		- Después de hacer la UI, hacer un commit y pushear los cambios
+		- Luego nos va a dar un ejercicio de kódigo para hacer|
